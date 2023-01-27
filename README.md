@@ -1,7 +1,7 @@
 
 # Formação Java e Orientação a Objetos
 
-Códigos e exercícios feitos durante o curso de formação Java e Orienteção a Objetos da [Alura](https://cursos.alura.com.br/formacao-java).
+Códigos e exercícios feitos durante o curso de formação Java e Orientação a Objetos da [Alura](https://cursos.alura.com.br/formacao-java).
 
 ## Acesso ao projeto
 
